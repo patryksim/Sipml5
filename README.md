@@ -34,3 +34,8 @@ Es importante tener en cuenta que el uso de SIPML5 puede requerir ciertos conoci
 - [ScreenShare](https://github.com/patryksim/sipml5/wiki/ScreenShare)
 - [sipml5 ‐ Calling_SIP_clients](https://github.com/patryksim/sipml5/wiki/sipml5-%E2%80%90-Calling_SIP_clients)
 
+---
+
+© 2021 CHI Technologies & Solutions. Todos los derechos reservados.
+
+Contáctanos: [contacto@chi.com.pa](mailto:contacto@chi.com.pa) | [patricia.hung@chi.com.pa](mailto:patricia.hung@chi.com.pa)
